@@ -24,11 +24,6 @@ with st.sidebar:
     **Email Spam Classifier**  
     This application uses a machine learning model to classify emails as **Spam** or **Not Spam**.
 
-    **Features:**
-    - Text preprocessing
-    - Model prediction
-    - User-friendly interface
-
     **How it works:**
     1. Enter the email content in the text area.
     2. Click the **Classify** button to see the result.
