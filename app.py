@@ -34,7 +34,7 @@ with st.sidebar:
     2. Click the **Classify** button to see the result.
 
     **About the Developer:**
-    - [Your Name](https://yourwebsite.com)
+    - [Aakash](aakash-engineer.github.io/home/)
 
     """)
     # Include an image or logo if available
